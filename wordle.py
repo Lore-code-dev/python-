@@ -40,7 +40,7 @@ def imprimir_grilla(grilla):
 
 # Ejecución del programa
 
-palabra_a_encontrar = "virus"
+palabra_a_encontrar = "vanessa"
 cantidad_de_letras = 5
 intentos = 6
 
